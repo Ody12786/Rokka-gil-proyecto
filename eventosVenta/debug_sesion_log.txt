@@ -1,0 +1,72 @@
+=== [2025-10-31 08:17:24] Petición NO autorizada
+Session ID: n31bgt2tlgp04e3lk2j1l4f7a8
+$_SESSION: Array
+(
+)
+
+\Array: Array
+(
+    [PHPSESSID] => n31bgt2tlgp04e3lk2j1l4f7a8
+)
+
+HEADERS: Array
+(
+    [accept-encoding] => gzip, deflate, br
+    [cookie] => PHPSESSID=n31bgt2tlgp04e3lk2j1l4f7a8
+    [Accept] => */*
+    [User-Agent] => Thunder Client (https://www.thunderclient.com)
+    [Host] => localhost
+    [Connection] => close
+    [Content-Length] => 0
+)
+
+REMOTE_ADDR: 127.0.0.1
+
+=== [2025-10-31 08:43:29] Petición NO autorizada
+Session ID: n31bgt2tlgp04e3lk2j1l4f7a8
+$_SESSION: Array
+(
+)
+
+\Array: Array
+(
+    [PHPSESSID] => n31bgt2tlgp04e3lk2j1l4f7a8
+)
+
+HEADERS: Array
+(
+    [accept-encoding] => gzip, deflate, br
+    [cookie] => PHPSESSID=n31bgt2tlgp04e3lk2j1l4f7a8
+    [Accept] => */*
+    [User-Agent] => Thunder Client (https://www.thunderclient.com)
+    [Host] => localhost
+    [Connection] => close
+    [Content-Length] => 0
+)
+
+REMOTE_ADDR: 127.0.0.1
+
+=== [2025-10-31 08:43:30] Petición NO autorizada
+Session ID: n31bgt2tlgp04e3lk2j1l4f7a8
+$_SESSION: Array
+(
+)
+
+\Array: Array
+(
+    [PHPSESSID] => n31bgt2tlgp04e3lk2j1l4f7a8
+)
+
+HEADERS: Array
+(
+    [accept-encoding] => gzip, deflate, br
+    [cookie] => PHPSESSID=n31bgt2tlgp04e3lk2j1l4f7a8
+    [Accept] => */*
+    [User-Agent] => Thunder Client (https://www.thunderclient.com)
+    [Host] => localhost
+    [Connection] => close
+    [Content-Length] => 0
+)
+
+REMOTE_ADDR: 127.0.0.1
+

@@ -1,0 +1,4 @@
+[2025-11-05 22:21:44] Producto no encontrado en inventario: tabla=productos_distribucion rawId=24 resolvedId=24
+[2025-11-05 22:22:28] Producto no encontrado en inventario: tabla=productos_distribucion rawId=24 resolvedId=24
+[2025-11-05 22:22:34] Producto no encontrado en inventario: tabla=productos_distribucion rawId=24 resolvedId=24
+[2025-11-05 23:16:18] Producto no encontrado en inventario: tabla=productos rawId=22 resolvedId=22
